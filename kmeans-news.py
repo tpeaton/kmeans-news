@@ -3,7 +3,7 @@
 # This program will calculate k-means clustering from headlines gathered
 # from newsapi.org.  K-value needs to be passed in as a command line argument.
 # Keep in mind that headlines will change often and no outcome of clustering
-# can be predicted.
+# can't be predicted.
 
 # For UMSL CS 4342
 
